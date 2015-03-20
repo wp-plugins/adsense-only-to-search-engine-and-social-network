@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Display Ads/AdSense Only to Search Engine Visitors
+Plugin Name: Adsense only to Search Engine and Socia Network
 Plugin URI: http://cbnewsplus.com
 Description: it seems that Search Engine visitors are more likely to click on targeted advertisements then your regular readers. With this plugin you can choose if you want or not show AdSense only to Search Engine Visitors. and social networking, such as Facebook, Twitter and etc.
 Author: Cilene Bonfim

@@ -1,4 +1,4 @@
-=== Display Ads/AdSense Only to Search Engine Visitors ===
+=== Adsense only to Search Engine and Socia Network ===
 Contributors: Cilene Bonfim
 Tags: adsense, google adsense, ads, ad insertion, advertising, money, revenue, easy adsense, adsense easy, simple adsense inserter, banners,search, engine, visitor
 Requires at least: 3.9
@@ -26,8 +26,8 @@ None yet
 
 == Screenshots ==
 
-1. 
-2. 
+1. Settings of Plugin
+2. Screenshot Edit Page
 3. 
 4. 
 
